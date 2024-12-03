@@ -32,7 +32,15 @@ The primary function of the system. It finds the best route between two stations
 | 30L  |  ✔   | 
   
 ### How to run the project:
-You can use the "project_tests_checker" and copy all and paste in terminal what's inside "all_commands". In alternative:
+You can use the "project_tests_checker" and copy all and paste in terminal what's inside "all_commands".
+#### open_1.txt
+Contains all the official input commands for the program to run. 
+#### open_1.output.txt
+Contains all the official outputs the program is supposed to print.
+#### open_1.testing.txt
+Contains all the outputs the program currently prints when runs.
+
+In alternative:
 
 To get this repository:
 ```bash
