@@ -32,6 +32,7 @@ The primary function of the system. It finds the best route between two stations
 | 30L  |  ✔   | 
   
 ### How to run the project:
+You can use the "project_tests_checker" and copy all and paste in terminal what's inside "all_commands". In alternative:
 
 To get this repository:
 ```bash
