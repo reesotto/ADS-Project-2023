@@ -14,7 +14,7 @@ This project, developed in 2023, is a C application that simulates a car-sharing
 - **Add a vehicle:** Add a new electric car to a specified service station with its range.  
 - **Remove a vehicle:** Remove a vehicle from a designated service station.  
 
-### Optimal Route Search: `pathfinder`  
+### Optimal Route Search: `route_planner`  
 The primary function of the system. It finds the best route between two stations, considering their positions along the highway.  
 - Supports searching from a closer station to a farther one and vice versa.
 - Optimizes the path with the least number of service stations passed.  
