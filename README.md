@@ -31,7 +31,7 @@ The primary function of the system. It finds the best route between two stations
 | 30   |      |  
 | 30L  |  ✔   | 
   
-##How to run the project:
+### How to run the project:
 
 To get this repository:
 ```bash
