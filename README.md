@@ -27,14 +27,14 @@ The primary function of the system. It finds the best route between two stations
 
 ## Ranks Table
 The project was a success as it respects the memory usage and the time requirements, and by a large margin.
-| Rank | Mark |  
-|------|------|  
-| 18   |      |  
-| 21   |      |  
-| 24   |      |  
-| 27   |      |  
-| 30   |      |  
-| 30L  |  ✔   | 
+| Rank | Memory | Time | Mark |  
+|------|--------|------|------|  
+| 18   | 128 Mib| 19 s |      |  
+| 21   | 118 Mib| 15 s |      |
+| 24   | 108 Mib| 10 s |      |
+| 27   | 98 Mib | 6 s  |      |
+| 30   | 88 Mib | 4 s  |      |
+| 30L  | 78 Mib | 1 s  |  ✓   |
   
 ### How to run the project:
 You can use the "project_tests_checker" and copy all and paste in terminal what's inside "all_commands". Inside the folder there are different .txt files:
