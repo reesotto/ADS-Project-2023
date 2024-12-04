@@ -37,7 +37,7 @@ The project was a success as it respects the memory usage and the time requireme
 | 30L  | 78 Mib | 1 s  |  ✓   |
   
 ### How to run the project:
-You can use the "project_tests_checker" and copy all and paste in terminal what's inside "all_commands". Inside the folder there are different .txt files:
+You can use the "project_tests_checker", copy all and paste in terminal what's inside "all_commands". The folder contains different .txt files:
 | File name        | Description                                                       |
 |------------------|-------------------------------------------------------------------|
 |open_1.txt        |Contains all the official input commands for the program to run    |
