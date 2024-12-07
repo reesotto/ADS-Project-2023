@@ -52,9 +52,9 @@ git clone https://github.com/polimiJHuang/ADS-Project-2023.git
 ```
 To compile the code:
 ```bash
-gcc DSA_project.c -o DSA_project
+gcc ADS_project.c -o ADS_project
 ```
 To run the compiled code:
 ```bash
-./DSA_project
+./ADS_project
 ```
