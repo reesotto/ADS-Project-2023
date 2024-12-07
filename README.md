@@ -1,5 +1,5 @@
 # DSA-Project-2023
-Milan Technical University's Data Structures and Algorithms project. 
+Milan Technical University's Algorithms and Data Structured project. 
 
 # Highway Car Sharing API
 This project, developed in 2023, is a C application that simulates a car-sharing system along a highway. The highway features multiple service areas, each with a fleet of electric cars with varying ranges. The system provides robust functionality for managing service stations and vehicles, with a core algorithm to find the most efficient travel routes, while respecting the memory usage and calculation time requirements.
@@ -21,8 +21,8 @@ The primary function of the system. It finds the best route between two stations
 - Optimizes the path to pass through stations nearest to the highway's starting point (distance 0).
 
 ### Used data structures:
-- Service areas: binary tree.
-- Cars in each service area: Linked list.  
+- Service areas: modified binary tree.
+- Cars in each service area: linked list.  
 
 
 ## Ranks Table
