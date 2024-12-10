@@ -1,5 +1,5 @@
 # ADS-Project-2023
-Milan Technical University's Algorithms and Data Structured project. 
+Milan Technical University's Algorithms and Data Structures project. 
 
 # Highway Car Sharing API
 This project, developed in 2023, is a C application that simulates a car-sharing system along a highway. The highway features multiple service areas, each with a fleet of electric cars with varying ranges. The system provides robust functionality for managing service stations and vehicles, with a core algorithm to find the most efficient travel routes, while respecting the memory usage and calculation time requirements.
@@ -18,7 +18,7 @@ This project, developed in 2023, is a C application that simulates a car-sharing
 The primary function of the system. It finds the best route between two stations, considering their positions along the highway.  
 - Supports searching from a closer station to a farther one and vice versa.
 - Optimizes the path with the least number of service stations passed.  
-- Optimizes the path to pass through stations nearest to the highway's starting point (distance 0).
+- Optimizes the path to pass through stations nearest to the highway's starting point (distance 0). This functionality is also applied when transversing from a farther station to a closer one.
 
 ### Used data structures:
 - Service areas: modified binary tree.
