@@ -48,7 +48,7 @@ In alternative follow these steps to try the program:
 
 To get this repository:
 ```bash
-git clone https://github.com/polimiJHuang/ADS-Project-2023.git
+git clone https://github.com/reesotto/ADS-Project-2023.git
 ```
 To compile the code:
 ```bash
